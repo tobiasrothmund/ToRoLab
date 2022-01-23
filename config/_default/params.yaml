@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: ocean
+theme: toro_theme
 day_night: false
-font: ''
+font: 'toro_font'
 font_size: L
 
 # SEO
