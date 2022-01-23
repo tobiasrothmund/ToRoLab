@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: tr_theme
+theme: minimal
 day_night: false
 font: 'tr_font'
 font_size: L
