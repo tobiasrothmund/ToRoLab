@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
 font_size: L
 
@@ -27,7 +27,7 @@ address:
   city: Jena
   postcode: '07743'
   country: Germany
-  country_code: en
+  country_code: DE
   - icon: twitter
     icon_pack: ai
     name: DM Me
