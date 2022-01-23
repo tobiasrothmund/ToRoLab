@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: forest
+theme: tr_theme
 day_night: false
 font: 'tr_font'
 font_size: L
