@@ -20,12 +20,12 @@ organizations:
 role: Professor of Psychology
 social:
 - icon: envelope
-  icon_pack: ai
+  icon_pack: fas
   link: /#contact
 - display:
     header: true
   icon: twitter
-  icon_pack: ai
+  icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/TobiasRothmund
 - icon: google-scholar
