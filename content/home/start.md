@@ -10,7 +10,7 @@ design:
   columns: '1'
 ---
 
-![image info](pictures/s21.png)
+![image info](./pictures/s21.png)
 
 Add any content here - text, images, videos, galleries - and even HTML code!
 
