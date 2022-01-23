@@ -5,12 +5,12 @@ name = "tr_theme"
 light = true
 
 # Primary
-primary = "#51e62c"
+primary = "#33cc0c"
 
 # Menu
 menu_primary = "#FFF"
 menu_text = "#000"
-menu_text_active = "#51e62c"
+menu_text_active = "#33cc0c"
 menu_title = "#000"
 
 # Home sections
