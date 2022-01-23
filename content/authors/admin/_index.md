@@ -1,13 +1,12 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests focus on the psychological experiencing of political processes, including individual differences, social justice concerns, ideological reasoning and political radicalization. 
 education:
   courses:
   - course: PhD in Psychology
     institution: University of Koblenz-Landau, Germany
     year: 2010
   - course: Diploma in Psychology
-    institution: University of Triery
+    institution: University of Trier
     year: 2004
 email: "tobias.rothmund@uni-jena.de"
 highlight_name: true
