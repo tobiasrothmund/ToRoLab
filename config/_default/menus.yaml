@@ -14,4 +14,6 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
-
+      - name: Landing
+    url: 'landing/'
+    weight: 60
