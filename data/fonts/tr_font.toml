@@ -3,7 +3,7 @@
 name = "tr_font"
 
 # Optional Google font URL
-google_fonts = "family=Quicksand:wght@300"
+google_fonts = "family=Quicksand:wght@300;40"
 
 # Font families
 heading_font = "Quicksand"

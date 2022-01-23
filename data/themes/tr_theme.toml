@@ -1,23 +1,18 @@
 # Theme metadata
 name = "tr_theme"
 
-[light]
-  # Primary
-  primary = "#1565c0"
+# Is theme light or dark?
+light = true
 
-  # Menu
-  menu_primary = "#fff"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
+# Primary
+primary = "rgb(251, 191, 183)"
 
-  # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+# Menu
+menu_primary = "rgb(247, 247, 247)"
+menu_text = "#000"
+menu_text_active = "rgb(25, 25, 25)"
+menu_title = "#000"
 
-[dark]
-  # Primary
-  primary = "#bbdefb"
-
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+# Home sections
+home_section_odd = "#FFF"
+home_section_even = "rgb(250, 232, 230)"
