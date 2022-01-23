@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: toro_theme
-day_night: false
-font: 'toro_font'
+theme: minimal
+day_night: true
+font: ''
 font_size: L
 
 # SEO
@@ -21,23 +21,13 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: tobias.rothmund@uni-jena.de
-phone: 888 888 88 88
+phone: Ernst-Abbe Platz 8
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: Ernst-Abbe Platz 8
+  city: Jena
   postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
+  country: Germany
+  country_code: DE
   - icon: twitter
     icon_pack: fab
     name: DM Me
@@ -157,4 +147,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true
