@@ -10,8 +10,8 @@ design:
   columns: '1'
 ---
 
-<img src="./content/home/pictures/test.jpg">
-![image info](pictures/s21.png)
+<img src="test.jpg">
+![image info](s21.png)
 
 Add any content here - text, images, videos, galleries - and even HTML code!
 
