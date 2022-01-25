@@ -10,8 +10,8 @@ design:
   columns: '1'
 ---
 
-<img src="./pictures/s21.png">
-<img src="/pictures/s21.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="~/CloudStation/Projekte/ToRoLab/content/home/pictures/s21.png">
+<img src="~/CloudStation/Projekte/ToRoLab/content/home/pictures/s21.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
 Add any content here - text, images, videos, galleries - and even HTML code!
 
